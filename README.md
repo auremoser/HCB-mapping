@@ -1,20 +1,20 @@
-##Mapping Assets: A tutorial
+### Mapping Assets: A tutorial
 
 
 This is a tutorial for the [Hive Chicago Buzz 2016](http://www.hivechicagobuzz.org/), 90-min workshop series: some of the most complex questions of access and opportunity can be easily communicated in a 2-D projection of a place. We'll use map tools to help groups connect with communities hyper-locally. The files here use Reveal.js, and it
 
-###FOLDER STRUCTURE:
+#### FOLDER STRUCTURE:
 - **css/** Core styles without which the project does not function
 - **js/** Like above but for JavaScript
 - **plugin/** Components that have been developed as extensions to reveal.js
 - **lib/** All other third party assets (JavaScript, CSS, fonts)
 
 
-###LOCATION:
+#### LOCATION:
 
 SP12 | Blue1647 | 10ppl
 
-###Authors:
+#### AUTHORS:
 
 - [Aurelia Moser](https://twitter.com/auremoser), Mozilla Science Lab
 - [Stuart Lynn](https://twitter.com/stuart_lynn), CartoDB
@@ -27,7 +27,7 @@ SP12 | Blue1647 | 10ppl
 - [Plugins](https://github.com/hakimel/reveal.js/wiki/Plugins,-Tools-and-Hardware): A list of plugins that can be used to extend reveal.js.
 
 
-### LICENSE
+#### LICENSE
 
 MIT licensed
 
