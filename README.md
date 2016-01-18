@@ -1,7 +1,7 @@
-##Mapping Assets
+##Mapping Assets: A tutorial
 
 
-This is a tutorial for the Hive Chicago Buzz 2016, 90-min workshop series: some of the most complex questions of access and opportunity can be easily communicated in a 2-D projection of a place. We'll use map tools to help groups connect with communities hyper-locally. The files here use Reveal.js and
+This is a tutorial for the [Hive Chicago Buzz 2016](http://www.hivechicagobuzz.org/), 90-min workshop series: some of the most complex questions of access and opportunity can be easily communicated in a 2-D projection of a place. We'll use map tools to help groups connect with communities hyper-locally. The files here use Reveal.js, and it
 
 ###Folder Structure
 - **css/** Core styles without which the project does not function
@@ -16,9 +16,9 @@ SP12 | Blue1647 | 10ppl
 
 ###Authors:
 
-[Aurelia Moser](https://twitter.com/auremoser), Mozilla Science Lab
-[Stuart Lynn](https://twitter.com/stuart_lynn), CartoDB
-[David Build](https://twitter.com/dbild), Chicago Academy of Sciences
+- [Aurelia Moser](https://twitter.com/auremoser), Mozilla Science Lab
+- [Stuart Lynn](https://twitter.com/stuart_lynn), CartoDB
+- [David Build](https://twitter.com/dbild), Chicago Academy of Sciences
 
 
 #### Reading:
