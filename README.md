@@ -1,4 +1,5 @@
-### Mapping Assets: A tutorial
+### MAPPING ASSETS
+#### A tutorial
 
 
 This is a tutorial for the [Hive Chicago Buzz 2016](http://www.hivechicagobuzz.org/), 90-min workshop series: some of the most complex questions of access and opportunity can be easily communicated in a 2-D projection of a place. We'll use map tools to help groups connect with communities hyper-locally. The files here use Reveal.js, and it
