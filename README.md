@@ -25,7 +25,7 @@ SP12 | Blue1647 | 10ppl
 
 - [Aurelia Moser](https://twitter.com/auremoser), Mozilla Science Lab
 - [Stuart Lynn](https://twitter.com/stuart_lynn), CartoDB
-- [David Build](https://twitter.com/dbild), Chicago Academy of Sciences
+- [David Bild](https://twitter.com/dbild), Chicago Academy of Sciences
 
 
 #### LICENSE
